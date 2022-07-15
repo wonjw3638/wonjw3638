@@ -8,15 +8,19 @@
 
 
 
-- IT media Engineering, SNUT
-- Seoul, South Korea
-- Study Python
+- *IT media Engineering, SNUT*
+- *Seoul, South Korea*
+- *Study Python*
 
 
 
 ## 🔹 SNS
 
-- Instagram [이동](https://www.instagram.com/_uomlr_/)
-- Naver blog [이동](https://blog.naver.com/wonjw3638)
-- Tistory [이동](https://only-jione.tistory.com/)
+- *Instagram* [이동](https://www.instagram.com/_uomlr_/)
+- *Naver blog* [이동](https://blog.naver.com/wonjw3638)
+- *Tistory* [이동](https://only-jione.tistory.com/)
+
+
+
+
 
