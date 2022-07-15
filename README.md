@@ -1,4 +1,6 @@
-# 💙Jiwon🤍
+# ✨Jiwon😊
+
+
 
 ## 🔹 Profile
 
@@ -6,8 +8,8 @@
 
 
 
-- IT media Engineering
-- Seoul, Korea
+- IT media Engineering, SNUT
+- Seoul, South Korea
 - Study Python
 
 
