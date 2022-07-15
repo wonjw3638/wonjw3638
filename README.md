@@ -10,7 +10,8 @@
 
 - *IT media Engineering, SNUT*
 - *Seoul, South Korea*
-- *Study Python*
+- *Learning Python*
+- *How to reach me : wonjw3638@gmail.com* 
 
 
 
