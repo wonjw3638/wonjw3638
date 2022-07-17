@@ -4,7 +4,7 @@
 
 ## 🔹 Profile
 
-![profile image](https://postfiles.pstatic.net/MjAyMTAyMDJfNTUg/MDAxNjEyMjcwODk0NjU2.-JMJ1y0W-h5egf90jx3R_Abwjl-RQTG3dCPMb9WhaT0g.yu76waPiHzuKuwrue4Z5NgNYzETgWENJjYPmecMBMSAg.JPEG.wonjw3638/20200206_161515.jpg?type=w773)
+<img src="C:\Users\wowjw\Desktop\KakaoTalk_20200304_235716575.jpg" alt="profile image" style="zoom:50%;" />
 
 
 
