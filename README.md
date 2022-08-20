@@ -6,7 +6,7 @@
 
 <img src="https://cafeptthumb-phinf.pstatic.net/MjAyMDAzMDVfMTc4/MDAxNTgzMzM0MzY4OTM4.6rBN3MoPMyTIcBVUsilyl1lSdku7KMHs2ABTt5pH9WYg.VuObo2Kf1-7_akbyV4WuLrTak4eHc5vt4oPq89aWF7Ag.JPEG/KakaoTalk_20200304_235716575.jpg?type=w800" style="zoom:50%;" />
 
-![어떻게든 해내는 편](C:\Users\wowjw\Desktop\BOJ.jpg)
+![어떻게든 해내는 편](https://postfiles.pstatic.net/MjAyMjA4MjBfMTI2/MDAxNjYwOTk2Mzk1MTA4.TumoGYCoZw5FbMdCUmIJVQHMwW3zxomyVsHDQLyCeQsg.kcRE9lTIN5n1FdmDohbUmleruCKio9ZiUiVHmJppFYkg.JPEG.wonjw3638/BOJ.jpg?type=w773)
 
 - *IT media Engineering, SNUT*
 - *Seoul, South Korea*
