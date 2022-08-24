@@ -23,6 +23,9 @@
 - SNUT Broadcasting & Telecommunication Lab.
   - Research Web VR
   - Publish a paper : 김지원, 전수현, and 김동호. "A-Frame 기반의 HMD 기기를 통한 stereoscopic 비디오 웹 플랫폼 구현." *한국방송미디어공학회 학술발표대회 논문집* (2021): 253-255. [보러가기](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10604833)
+- 2021 Capstone Design
+  - Publish a paper : Kim, Jiwon, Haejung Jung, and Dongho Kim. "Interactive Web using CycleGAN." *Proceedings of the Korean Society of Broadcast Engineers Conference*. The Korean Institute of Broadcast and Media Engineers, 2021. [보러가기](https://koreascience.kr/article/CFKO202115161265739.page)
+
 
 <br>
 
