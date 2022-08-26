@@ -50,8 +50,8 @@
 
 - MongoDB
 
-**Tools**
-
+**Tech Stack**
+- A-Frame
 - MATLAB
 - Adobe premiere pro 
 - Adobe after effects
