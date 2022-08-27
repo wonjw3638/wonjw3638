@@ -40,11 +40,11 @@
 
 **Programming Language**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=f5dd42"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=f5dd42"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=1c1c1c"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=1c1c1c"/>
 
 **Backend**
 
@@ -58,7 +58,7 @@
 
 <img src="https://img.shields.io/badge/AFrame-EF2D5E?style=flat&logo=A-Frame&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=black"/><img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=black"/> <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=black"/> &nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=black"/>
 
 *MATLAB*
 
@@ -66,9 +66,9 @@
 
 ## 🔹 Archiving
 
-<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"/> [이동](https://blog.naver.com/wonjw3638)
+<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"/> &nbsp;[이동](https://blog.naver.com/wonjw3638)
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>[이동](https://only-jione.tistory.com/)
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>&nbsp;[이동](https://only-jione.tistory.com/)
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/> [이동](https://www.instagram.com/_uomlr_/)
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/> &nbsp;[이동](https://www.instagram.com/_uomlr_/)
 
