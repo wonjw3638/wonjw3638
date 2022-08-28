@@ -62,11 +62,9 @@
 
 **Tech Stack**
 
-<img src="https://img.shields.io/badge/AFrame-EF2D5E?style=flat&logo=A-Frame&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AFrame-EF2D5E?style=flat&logo=A-Frame&logoColor=white"/> *MATLAB*
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=black"/> &nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=black"/>
-
-*MATLAB*
 
 <br>
 
