@@ -24,18 +24,18 @@
 ## 🔹 Experiences
 
 - SNUT 인터넷 방송국 ISNUT 17기
+  - <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> 2018 서울과기대 홍보 UCC 공모전 최우수상 수상 [보러가기](https://www.youtube.com/watch?v=O3bHF8CpQAM)
+
 - CJ 도너스 캠프 3기 PD부문
   - <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> 레용이들 [보러가기](https://www.youtube.com/channel/UCMNLf8IiWvRD65bWwZRAESA)
-
 - CJ UNIT 1기, 2기, 3기 강사부문
-  - CJ UNIT 1기 최우수 봉사자상 (ONLY ONE상) 수상
-
+  - CJ UNIT 1기 최우수 봉사자상 (ONLY ONE상) 수상 
 - 영삼성 리포터즈 4기
   - 영국 해외취재 선발 (SDE의 UX/UI 디자이너 인터뷰)
   - <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> 영삼성 리포터즈 4기 영국 런던 취재기 [보러가기](https://youtu.be/S1DyJnwzX7Y)
-
 - SNUT Broadcasting & Telecommunication Lab.
   - Research Web VR
+  - <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> 학과, 연구실 소개 영상 [보러가기](https://www.youtube.com/watch?v=fzwoiSOOudw)
   - Publish a paper : 김지원, 전수현, and 김동호. "A-Frame 기반의 HMD 기기를 통한 stereoscopic 비디오 웹 플랫폼 구현." *한국방송미디어공학회 학술발표대회 논문집* (2021): 253-255. [보러가기](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10604833)
 - 2021 Capstone Design
   - Publish a paper : Kim, Jiwon, Haejung Jung, and Dongho Kim. "Interactive Web using CycleGAN." *Proceedings of the Korean Society of Broadcast Engineers Conference*. The Korean Institute of Broadcast and Media Engineers, 2021. [보러가기](https://koreascience.kr/article/CFKO202115161265739.page)
