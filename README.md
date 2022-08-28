@@ -2,7 +2,7 @@
 
 ## 🔹 Profile
 
-<img src="https://cafeptthumb-phinf.pstatic.net/MjAyMDAzMDVfMTc4/MDAxNTgzMzM0MzY4OTM4.6rBN3MoPMyTIcBVUsilyl1lSdku7KMHs2ABTt5pH9WYg.VuObo2Kf1-7_akbyV4WuLrTak4eHc5vt4oPq89aWF7Ag.JPEG/KakaoTalk_20200304_235716575.jpg?type=w800" style="zoom:50%;" />
+<img src="https://postfiles.pstatic.net/MjAyMjA4MjhfMTIy/MDAxNjYxNjk0MjQ5MzIx.sxW_Kp3HYXp1pyBHEUVrObyTfFRXBgGPpxFjWjD_FjAg.bRi8kfDut47nWpn2tz8WGQfTOc-KILHrtS8LMMxAELIg.PNG.wonjw3638/1.PNG?type=w773" style="zoom:80%;" />
 
 <br>
 
