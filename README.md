@@ -23,6 +23,8 @@
 
 <br>
 
+<div align = "center">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=f5dd42"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=1c1c1c"/>
@@ -34,6 +36,8 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-2e2e2e?style=flat&logo=Visual Studio Code&logoColor=007acc"/> 
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=black"/> &nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=black"/>
+
+</div>
 
 <br>
 
@@ -70,7 +74,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Velog-f5f5f5?style=flat&logo=Velog&logoColor=#20C997"/> [Velog](https://velog.io/@wonjw3638) &nbsp;<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>&nbsp;[Tistory](https://only-jione.tistory.com/)
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>&nbsp;[Tistory](https://only-jione.tistory.com/) 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=footer)
 
