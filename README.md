@@ -4,12 +4,18 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjw3638&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div align = "center">
+
 ​	 								![](https://postfiles.pstatic.net/MjAyMjA4MjBfMTI2/MDAxNjYwOTk2Mzk1MTA4.TumoGYCoZw5FbMdCUmIJVQHMwW3zxomyVsHDQLyCeQsg.kcRE9lTIN5n1FdmDohbUmleruCKio9ZiUiVHmJppFYkg.JPEG.wonjw3638/BOJ.jpg?type=w773)   ![	](https://user-images.githubusercontent.com/109324634/192559306-cf9ff54f-d77e-4a47-9eca-0e7189dacb44.jpg) 
 
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=won_k)](https://solved.ac/won_k) <br>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=won_k)](https://solved.ac/won_k)
+
+</div> 
+
+<br>
 
 - *IT media Engineering, SNUT*
 - *Seoul, South Korea*
