@@ -2,8 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjw3638&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=won_k)](https://solved.ac/won_k)
+![won_k's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=won_k)
 
 - *IT media Engineering, SNUT*
 - *Seoul, South Korea*
