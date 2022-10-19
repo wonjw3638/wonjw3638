@@ -19,9 +19,9 @@
 
 <img src="https://img.shields.io/badge/HTML5-fafafa?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-fafafa?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>&nbsp;<img src="https://img.shields.io/badge/Bootstrap-fafafa?style=for-the-badge&logo=Bootstrap&logoColor=7952B3"/> <img src="https://img.shields.io/badge/Vue.js-fafafa?style=for-the-badge&logo=Vue.js&logoColor=Vue.js"/> <img src="https://img.shields.io/badge/React-fafafa?style=for-the-badge&logo=React&logoColor=61DAFB"/> 
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-fafafa?style=for-the-badge&logo=SQLite&logoColor=003B57"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/AFrame-EF2D5E?style=for-the-badge&logo=A-Frame&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-fafafa?style=for-the-badge&logo=SQLite&logoColor=003B57"/>  
 
-<img src="https://img.shields.io/badge/Visual Studio Code-fafafa?style=for-the-badge&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/PyCharm-ecff45?style=for-the-badge&logo=PyCharm&logoColor=000000"/> <img src="https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=GitHub&logoColor=181717"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-fafafa?style=for-the-badge&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/PyCharm-ecff45?style=for-the-badge&logo=PyCharm&logoColor=000000"/> <img src="https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=GitHub&logoColor=181717"/>
 
 </div>
 
