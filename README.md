@@ -11,15 +11,19 @@
 
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>&nbsp;[Tistory](https://only-jione.tistory.com/) 
 
-## 🍀 Experiences
+## 🍀 Skills
 
-- SNUT 인터넷 방송국 ISNUT 17기
-- CJ 도너스 캠프 3기 PD부문
-- CJ UNIT 1기, 2기, 3기 강사부문
-- 영삼성 리포터즈 4기
-- SNUT Broadcasting & Telecommunication Lab.
-  - Research Web VR
-- SSAFY 8기 비전공자 Python반
+<div align = "center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=f5dd42"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=1c1c1c"/>
+
+<img src="https://img.shields.io/badge/HTML5-fafafa?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-fafafa?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>&nbsp;<img src="https://img.shields.io/badge/Bootstrap-fafafa?style=for-the-badge&logo=Bootstrap&logoColor=7952B3"/> <img src="https://img.shields.io/badge/Vue.js-fafafa?style=for-the-badge&logo=Vue.js&logoColor=Vue.js"/> <img src="https://img.shields.io/badge/React-fafafa?style=for-the-badge&logo=React&logoColor=61DAFB"/> 
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-fafafa?style=for-the-badge&logo=SQLite&logoColor=003B57"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/AFrame-EF2D5E?style=for-the-badge&logo=A-Frame&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/Visual Studio Code-fafafa?style=for-the-badge&logo=Visual Studio Code&logoColor=007acc"/> <img src="https://img.shields.io/badge/PyCharm-ecff45?style=for-the-badge&logo=PyCharm&logoColor=000000"/> <img src="https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=GitHub&logoColor=181717"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=black"/> 
+
+</div>
 
 ## 🍀 Project
 
@@ -31,20 +35,12 @@
 - **Tech Crawling Web page Project** 🚩 제작 중
 - **ISNUT Web page Project** 🚧 제작 예정
 
-## 🍀 Skills
+## 🍀 Experiences
 
-<div align = "center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=f5dd42"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=1c1c1c"/>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/AFrame-EF2D5E?style=flat&logo=A-Frame&logoColor=white"/> *MATLAB*
-
-<img src="https://img.shields.io/badge/Visual Studio Code-2e2e2e?style=flat&logo=Visual Studio Code&logoColor=007acc"/> 
-
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=black"/> &nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=black"/>
-
-</div>
+- SNUT 인터넷 방송국 ISNUT 17기
+- CJ 도너스 캠프 3기 PD부문
+- CJ UNIT 1기, 2기, 3기 강사부문
+- 영삼성 리포터즈 4기
+- SNUT Broadcasting & Telecommunication Lab.
+  - Research Web VR
+- SSAFY 8기 비전공자 Python반
