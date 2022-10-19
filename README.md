@@ -4,16 +4,15 @@
 
 ![won_k's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=won_k)
 
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> wonjw3638@gmail.com
+
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>&nbsp;[Tistory](https://only-jione.tistory.com/) 
+
 </div>
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/> wonjw3638@gmail.com
-
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>&nbsp;[Tistory](https://only-jione.tistory.com/) 
 
 ## 🍀 Skills
 
 <div align = "center">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=f5dd42"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=1c1c1c"/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=fafafa"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=3d4e57"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=2b2b2b"/> 
