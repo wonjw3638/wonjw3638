@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 ## 🍀 Skills
 
 <div align = "center">
@@ -40,11 +38,18 @@
 
 ## <!--🍀 Experiences-->
 
-- <!--IT media Engineering, SNUT-->
-- <!--SNUT 인터넷 방송국 ISNUT 17기-->
-- <!--CJ 도너스 캠프 3기 PD부문-->
-- <!--CJ UNIT 1기, 2기, 3기 강사부문-->
-- <!--영삼성 리포터즈 4기-->
-- <!--SNUT Broadcasting & Telecommunication Lab.-->
-  - <!--Research Web VR-->
-- <!--SSAFY 8기 비전공자 Python반-->
+<!--IT media Engineering, SNUT-->
+
+<!--SNUT 인터넷 방송국 ISNUT 17기-->
+
+<!--CJ 도너스 캠프 3기 PD부문-->
+
+<!--CJ UNIT 1기, 2기, 3기 강사부문-->
+
+<!--영삼성 리포터즈 4기-->
+
+<!--SNUT Broadcasting & Telecommunication Lab.-->
+
+​	<!--Research Web VR-->
+
+<!--SSAFY 8기 비전공자 Python반-->
