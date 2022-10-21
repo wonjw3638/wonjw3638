@@ -1,32 +1,19 @@
 ## 🍀 Profile
 
 <div align = "center">
-
-![won_k's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=won_k)
+<!-- ![won_k's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=won_k) -->
 
 </div>
 
 <div align = "center">
 
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:wonjw3638@gmail.com) <a href="https://only-jione.tistory.com/" rel="Tistory"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> <a href="https://wonjw3638.github.io/" rel="Tistory"><img src="https://img.shields.io/badge/Portfoilo-ffd500?style=for-the-badge"/></a>
+<a href="https://wonjw3638.github.io/" rel="Tistory"><img src="https://img.shields.io/badge/Portfoilo-ffd500?style=for-the-badge"/></a> [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:wonjw3638@gmail.com) <a href="https://only-jione.tistory.com/" rel="Tistory"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 </div>
 
 <br>
 
 ## 🍀 Skills
-
-<div align = "center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vue)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=django,sqlite)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,md)](https://skillicons.dev)
-
-</div>
 
 <div align = "center">
 
@@ -51,13 +38,13 @@
 - **Tech Crawling Web page Project** 🚩 제작 중
 - **ISNUT Web page Project** 🚧 제작 예정
 
-## 🍀 Experiences
+## <!--🍀 Experiences-->
 
-- IT media Engineering, SNUT
-- SNUT 인터넷 방송국 ISNUT 17기
-- CJ 도너스 캠프 3기 PD부문
-- CJ UNIT 1기, 2기, 3기 강사부문
-- 영삼성 리포터즈 4기
-- SNUT Broadcasting & Telecommunication Lab.
-  - Research Web VR
-- SSAFY 8기 비전공자 Python반
+- <!--IT media Engineering, SNUT-->
+- <!--SNUT 인터넷 방송국 ISNUT 17기-->
+- <!--CJ 도너스 캠프 3기 PD부문-->
+- <!--CJ UNIT 1기, 2기, 3기 강사부문-->
+- <!--영삼성 리포터즈 4기-->
+- <!--SNUT Broadcasting & Telecommunication Lab.-->
+  - <!--Research Web VR-->
+- <!--SSAFY 8기 비전공자 Python반-->
