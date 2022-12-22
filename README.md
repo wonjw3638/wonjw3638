@@ -30,5 +30,4 @@
 - 🖼 **2021 Capstone Design** 🚧 수정 예정
   - Publish a paper : Kim, Jiwon, Haejung Jung, and Dongho Kim. "Interactive Web using CycleGAN." *Proceedings of the Korean Society of Broadcast Engineers Conference*. The Korean Institute of Broadcast and Media Engineers, 2021. [보러가기](https://koreascience.kr/article/CFKO202115161265739.page)
 - 🎬 **Movie Recommend Project**
-- 🗃 **Tech Crawling Web page Project** 🚩 제작 중
 
